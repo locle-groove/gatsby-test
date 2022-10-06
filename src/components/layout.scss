@@ -1,0 +1,11 @@
+//Here you can customize bootstrap
+$primary: #663399;
+@import "~bootstrap/scss/bootstrap";
+
+
+.navbar-sticky {
+    background: #333;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
